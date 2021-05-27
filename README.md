@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tripathirakeshofficial
+- 👋 Hi, I’m Rakesh Tripathi.
 - 👀 I’m interested in writing codes.
 - 🌱 I’m currently learning Redux in depth.
 - 💞️ I’m looking to collaborate on different react projects.
