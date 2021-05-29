@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: rAkEsH_tRiPa](https://img.shields.io/twitter/follow/rAkEsH_tRiPa?style=social)](https://twitter.com/rAkEsH_tRiPa)
-[![Linkedin: rakesh-tripathi-react](https://img.shields.io/badge/-rakesh-tripathi-react-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakesh-tripathi-react/)](https://www.linkedin.com/in/rakesh-tripathi-react/)
+[![Linkedin: rakesh-tripathi-react](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakesh-tripathi-react/)](https://www.linkedin.com/in/rakesh-tripathi-react/)
 [![GitHub tripathirakeshofficial](https://img.shields.io/github/followers/tripathirakeshofficial?label=follow&style=social)](https://github.com/tripathirakeshofficial)
 
 ### <img src="https://media.giphy.com/media/dAzvwDXsf3M6x8IPow/giphy.gif" width="50"> A little more about me...
