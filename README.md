@@ -5,7 +5,7 @@
 As an experienced frontend developer, I'm passionate about creating exceptional user experiences and delivering high-quality solutions. In my current role, I employ a comprehensive technical skillset that encompasses various frontend technologies. Here are some of my key areas of expertise:
 
 - **Languages:** HTML5, CSS, JavaScript/ES6, TypeScript
-- **Frameworks/Libraries:** ReactJS, Redux, Context API
+- **Frameworks/Libraries:** ReactJS, NextJS, Redux, Context API
 - **Testing:** JEST, React Testing Library
 - **REST APIs:** Fetching real-time data from web servers
 - **State Management:** Redux with middleware like Thunk and Saga
